@@ -46,11 +46,6 @@ async function sendEmails() {
           html: htmlBody,
         });
 
-        // await client.query(
-        //   `UPDATE email_scheduler.recipients SET sent = TRUE WHERE id = $1`,
-        //   [row.id]
-        // );
-
         console.log(`Email sent to ${row.email}`);
       } catch (err) {
         console.error(`Failed to send email to ${row.email}:`, err.message);
