@@ -1,0 +1,1 @@
+\i 'TABLES/CREATE_TABLE.sql'
