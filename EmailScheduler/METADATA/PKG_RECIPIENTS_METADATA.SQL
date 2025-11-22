@@ -1,7 +1,17 @@
-
 INSERT INTO email_scheduler.recipients (campaign_id, email)
-VALUES 
-(1, 'kihustlers@gmail.com'),
-(1, 'jatinmishraz71@gmail.com');
-(2, 'kihustlers@gmail.com'),
-(2, 'jatinmishraz71@gmail.com');
+VALUES
+(1, 'musicbygini@gmail.com'),
+(1, 'kumar@kumarvishwas.com'),
+(1, 'sahityatak@aajtak.com'),
+(1, 'contact@unmukt.co.in'),
+(1, 'thedigitalshayar2020@gmail.com'),
+(1, 'info@barahe.in'),
+(1, 'indianpoetrycollective@gmail.com'),
+(1, 'greatindianpoetry@gmail.com'),
+(1, 'poetrywala@gmail.com'),
+(1, 'indianpoetnikhilparekh@gmail.com'),
+(1, '43wcpindia2024@gmail.com'),
+(1, 'indianpoetrysociety@gmail.com');
+
+
+

@@ -6,6 +6,7 @@ CREATE TABLE email_scheduler.campaigns (
     name TEXT NOT NULL,
     subject TEXT NOT NULL,
     body TEXT NOT NULL,
+    video_link TEXT,
     scheduled_time TIME NOT NULL,
     active BOOLEAN DEFAULT TRUE
 );

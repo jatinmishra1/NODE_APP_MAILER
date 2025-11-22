@@ -1,3 +1,4 @@
+
 DROP SCHEMA IF EXISTS email_scheduler CASCADE;
 
 CREATE SCHEMA email_scheduler AUTHORIZATION postgres;

@@ -21,7 +21,7 @@ REM ===============================
 REM Run installer
 REM ===============================
 echo Running EmailScheduler installer...
-psql -f "%INSTALLER_SQL%"
+psql -v client_encoding=UTF8 -f "%INSTALLER_SQL%"
 
 echo Database installation completed!
 pause
