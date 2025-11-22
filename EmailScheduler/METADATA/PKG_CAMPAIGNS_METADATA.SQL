@@ -6,7 +6,7 @@ VALUES (
 I recently wrote and recorded a piece that is extremely close to my heart  it''s raw, honest, and comes from real pain and experience.
 
 I am sharing this video with you with a great hope:
-if it touches you even a little, please give me just one chance… one stage… one opportunity to be heard.
+if it touches you even a little, please give me just one chance one stage one opportunity to be heard.
 
 Your support can change a lot for an artist like me.
 
