@@ -11,7 +11,17 @@ VALUES
 (1, 'poetrywala@gmail.com'),
 (1, 'indianpoetnikhilparekh@gmail.com'),
 (1, '43wcpindia2024@gmail.com'),
-(1, 'indianpoetrysociety@gmail.com');
+(1, 'indianpoetrysociety@gmail.com')
+(1, 'mushairamedia@gmail.com')
+(1, 'zakirkhan208@gmail.com')
+(1, 'baakhararts@gmail.com')
+(1, 'kavisammelanlive@gmail.com')
+(1, 'nexttvc@gmail.com')
+(1, 'nilotpalmrinal.84@gmail.com');
+
+
+
+
 
 
 
