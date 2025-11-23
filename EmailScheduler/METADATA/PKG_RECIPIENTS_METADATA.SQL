@@ -1,5 +1,6 @@
 INSERT INTO email_scheduler.recipients (campaign_id, email)
-VALUES(1, 'musicbygini@gmail.com'),
+VALUES
+(1, 'musicbygini@gmail.com'),
 (1, 'kumar@kumarvishwas.com'),
 (1, 'sahityatak@aajtak.com'),
 -- (1, 'contact@unmukt.co.in'),
@@ -16,7 +17,8 @@ VALUES(1, 'musicbygini@gmail.com'),
 (1, 'baakhararts@gmail.com'),
 (1, 'kavisammelanlive@gmail.com'),
 (1, 'nexttvc@gmail.com'),
-(1, 'nilotpalmrinal.84@gmail.com');
+(1, 'nilotpalmrinal.84@gmail.com')
+;
 
 
 
