@@ -14,5 +14,5 @@ Video is attached. Please listen whenever you get a moment  it means a lot to me
 
 Thank you for your time and kindness.',
   '09:00',
-  'https://drive.google.com/file/d/1Qs-q6nsQYOO-P4HNmbuEp0v3vGGdUGLC/view?usp=drive_link'
+  'https://youtu.be/Kua3nM1SATM?feature=shared'
 );
